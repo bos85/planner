@@ -8,7 +8,6 @@ body {
 	font-size: 14px; 
 	font-family: Arial; 
 	overflow-x: hidden;
-	overflow-y: hidden;
     cursor: url("../Graphics/Other/cur.png"), auto; 
 	
 	background: black;
